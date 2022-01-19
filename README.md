@@ -4,6 +4,6 @@
 Project no 1:
 
 
-Diabetes Prediction
+Diabetes Prediction.
 ![Website](https://diabetes-pridictions.herokuapp.com/)  ![GitHub](https://github.com/Muhammad-Ahmad-AI/Diabetes-Prediction)
 
